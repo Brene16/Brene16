@@ -1,16 +1,15 @@
-## Hi there 👋
+# Brene16 — Blockchain Security Researcher
 
-<!--
-**Brene16/Brene16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> 2+ years of smart contract security research across EVM and non-EVM chains.
 
-Here are some ideas to get you started:
+Specializing in DeFi protocols — lending, staking, DEXes, yield farming — with hands-on experience across industry standards like Uniswap, Morpho, Compound, Aave, and cross-chain integrations including LayerZero.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Languages
+
+![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
+![Cairo](https://img.shields.io/badge/Cairo-EC5023.svg?style=for-the-badge&logoColor=white)
+![Move](https://img.shields.io/badge/Move-007AFF.svg?style=for-the-badge&logoColor=white)
+![Vyper](https://img.shields.io/badge/Vyper-627EEA.svg?style=for-the-badge&logoColor=white)
